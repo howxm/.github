@@ -22,6 +22,14 @@
 
 我们支持在不同的终端完成对于浩客 X-SDK 的集成，也提供了相应的示例代码，可以查看下面的内容。
 
-repo 介绍
+repo 指引
+
+- [howxm-js](https://github.com/howxm/howxm-js)https://github.com/howxm/howxm-js)，使用 NPM 集成浩客
+- [howxm-RN-demo](https://github.com/howxm/howxm-RN-demo), 使用 ReactNative 集成浩客
+- [howxm-miniapp-seed](https://github.com/howxm/howxm-miniapp-seed)，原生小程序集成浩客
+- [howxm-ios-OC-demo](https://github.com/howxm/howxm-ios-OC-demo),使用 Objective-C 集成浩客
+- [howxm-uniapp-wechat-miniprogram-demo](https://github.com/howxm/howxm-uniapp-wechat-miniprogram-demo),使用 Uniapp 微信小程序集成浩客插件
+- [howxm-taro-seed](https://github.com/howxm/howxm-taro-seed),使用 Taro 微信小程序集成浩客
+- [taro-plugin-howxm](https://github.com/howxm/taro-plugin-howxm) ,解决 Taro 中使用浩客问卷小程序问题插件 
 
 
